@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "replacementPrice": 100000,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "title": "Bumi",
+      "author": "Tere Liye",
+      "replacementPrice": 120000,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "replacementPrice": 150000,
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "replacementPrice": 90000,
+      "quantity": 3
+    },
+    {
+      "id": 5,
+      "title": "Laut Bercerita",
+      "author": "Leila S. Chudori",
+      "replacementPrice": 110000,
+      "quantity": 2
+    }
+  ],
+  "loans": []
+}
